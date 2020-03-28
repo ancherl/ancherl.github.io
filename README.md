@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kris Dai's Blog
 
 > ***This is Kris Dai's Technolofy Learning blog, please feel free to share your experience here***
 
@@ -13,3 +13,7 @@
 ```
   Patch()
 ```
+
+
+
+
